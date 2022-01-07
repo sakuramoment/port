@@ -1925,7 +1925,7 @@ header .header-logo a {
 #about {
 	position: relative;
 	padding: 10.8rem 0 10.8rem;
-	background-color: #FFFFFF;
+	background-color: #EBEBEB;
 	min-height: 700px;
 }
 
@@ -2433,7 +2433,7 @@ header .header-logo a {
  *
  * ------------------------------------------------------------------- */
 #portfolio {
-	background: #EBEBEB;
+	background: #FFFFFF;
 	min-height: 800px;
 	position: relative;
 	padding: 12rem 0 15rem;
@@ -2564,7 +2564,7 @@ header .header-logo a {
 	top: 3.6rem;
 	right: 0;
 }
-
+.bricks-wrapper .item-wrap .details-link.details-link2{	right: 5rem;}
 .bricks-wrapper .item-wrap .details-link i {
 	font-size: 2rem;
 	line-height: 4.6rem;
